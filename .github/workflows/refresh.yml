@@ -30,11 +30,15 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          VERSION=$(node -e 'console.log(JSON.parse(require("fs").readFileSync("models/v1/catalog.json", "utf8")).catalogVersion)')
           if git diff --quiet -- models/v1/catalog.json; then
-            echo "Catalog content unchanged; no commit or release required."
+            if gh release view "catalog-${VERSION}" >/dev/null 2>&1; then
+              echo "Catalog content and release unchanged."
+              exit 0
+            fi
+            gh release create "catalog-${VERSION}" models/v1/catalog.json --target "$GITHUB_SHA" --title "Catalog ${VERSION}" --notes "Immutable OpenClaw catalog release ${VERSION}."
             exit 0
           fi
-          VERSION=$(node -e 'console.log(JSON.parse(require("fs").readFileSync("models/v1/catalog.json", "utf8")).catalogVersion)')
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add models/v1/catalog.json
