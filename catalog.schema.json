@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://DangVinh2312.github.io/openclaw-catalog-mirror/catalog.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "catalogVersion", "generatedAt", "minRuntimeVersion", "source", "providers"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "catalogVersion": { "type": "string", "pattern": "^sha256-[a-f0-9]{64}$" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "minRuntimeVersion": { "type": "string", "minLength": 1 },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "commit", "digest", "verifiedAt"],
+      "properties": {
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "commit": { "type": "string", "minLength": 1 },
+        "digest": { "type": "string", "pattern": "^sha256-[a-f0-9]{64}$" },
+        "verifiedAt": { "type": "string", "format": "date-time" }
+      }
+    },
+    "providers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "displayName", "status", "models"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]*$" },
+          "displayName": { "type": "string", "minLength": 1 },
+          "status": { "enum": ["active", "deprecated"] },
+          "models": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["id", "displayName", "status", "input", "provenance"],
+              "properties": {
+                "id": { "type": "string", "minLength": 1 },
+                "displayName": { "type": "string", "minLength": 1 },
+                "status": { "enum": ["active", "deprecated"] },
+                "replacedBy": { "type": "string", "minLength": 1 },
+                "input": { "type": "array", "items": { "enum": ["text", "image", "audio", "video"] }, "uniqueItems": true },
+                "reasoning": { "type": "boolean" },
+                "contextWindow": { "type": "integer", "minimum": 1 },
+                "maxTokens": { "type": "integer", "minimum": 1 },
+                "pricing": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "input": { "type": "number", "minimum": 0 },
+                    "output": { "type": "number", "minimum": 0 },
+                    "cacheRead": { "type": "number", "minimum": 0 },
+                    "cacheWrite": { "type": "number", "minimum": 0 }
+                  }
+                },
+                "provenance": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": ["sourceCommit", "providerId", "modelId"],
+                  "properties": {
+                    "sourceCommit": { "type": "string", "minLength": 1 },
+                    "providerId": { "type": "string", "minLength": 1 },
+                    "modelId": { "type": "string", "minLength": 1 }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

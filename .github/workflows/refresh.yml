@@ -1,0 +1,41 @@
+name: Refresh OpenClaw catalog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.30.2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm test
+      - run: pnpm typecheck
+      - run: pnpm refresh -- --output models/v1/catalog.json
+      - name: Publish changed release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- models/v1/catalog.json; then
+            echo "Catalog content unchanged; no commit or release required."
+            exit 0
+          fi
+          VERSION=$(node -e 'console.log(JSON.parse(require("fs").readFileSync("models/v1/catalog.json", "utf8")).catalogVersion)')
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add models/v1/catalog.json
+          git commit -m "chore(catalog): publish ${VERSION}"
+          git push origin HEAD:main
+          gh release create "catalog-${VERSION}" models/v1/catalog.json --title "Catalog ${VERSION}" --notes "Immutable OpenClaw catalog release ${VERSION}."
