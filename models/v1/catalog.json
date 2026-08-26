@@ -16,7 +16,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "anthropic",
             "modelId": "claude-fable-5"
           },
@@ -39,7 +39,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "anthropic",
             "modelId": "claude-haiku-4-5"
           },
@@ -62,7 +62,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "anthropic",
             "modelId": "claude-mythos-5"
           },
@@ -85,7 +85,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "anthropic",
             "modelId": "claude-opus-4-8"
           },
@@ -109,7 +109,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "anthropic",
             "modelId": "claude-opus-5"
           },
@@ -132,7 +132,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "anthropic",
             "modelId": "claude-sonnet-5"
           },
@@ -161,7 +161,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "baseten",
             "modelId": "deepseek-ai/DeepSeek-V4-Pro"
           },
@@ -184,7 +184,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "baseten",
             "modelId": "moonshotai/Kimi-K2.6"
           },
@@ -207,7 +207,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "baseten",
             "modelId": "moonshotai/Kimi-K2.7-Code"
           },
@@ -229,7 +229,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "baseten",
             "modelId": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B"
           },
@@ -251,7 +251,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "baseten",
             "modelId": "openai/gpt-oss-120b"
           },
@@ -274,7 +274,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "baseten",
             "modelId": "thinkingmachines/inkling"
           },
@@ -296,7 +296,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "baseten",
             "modelId": "zai-org/GLM-4.7"
           },
@@ -318,7 +318,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "baseten",
             "modelId": "zai-org/GLM-5.2"
           },
@@ -340,7 +340,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "baseten",
             "modelId": "zai-org/GLM-5.2-Fast"
           },
@@ -369,7 +369,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "byteplus",
             "modelId": "deepseek-v4-flash-260425"
           },
@@ -391,7 +391,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "byteplus",
             "modelId": "deepseek-v4-pro-260425"
           },
@@ -414,7 +414,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "byteplus",
             "modelId": "dola-seed-2-1-turbo-260628"
           },
@@ -436,7 +436,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "byteplus",
             "modelId": "glm-4-7-251222"
           },
@@ -459,7 +459,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "byteplus",
             "modelId": "glm-5-2-260617"
           },
@@ -482,7 +482,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "byteplus",
             "modelId": "seed-2-0-code-preview-260328"
           },
@@ -511,7 +511,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "byteplus-plan",
             "modelId": "ark-code-latest"
           },
@@ -533,7 +533,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "byteplus-plan",
             "modelId": "kimi-k2.5"
           },
@@ -563,7 +563,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "cerebras",
             "modelId": "gemma-4-31b"
           },
@@ -585,7 +585,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "cerebras",
             "modelId": "gpt-oss-120b"
           },
@@ -607,7 +607,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "cerebras",
             "modelId": "zai-glm-4.7"
           },
@@ -636,7 +636,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "chutes",
             "modelId": "deepseek-ai/DeepSeek-V3.2-TEE"
           },
@@ -658,7 +658,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "chutes",
             "modelId": "MiniMaxAI/MiniMax-M2.5-TEE"
           },
@@ -681,7 +681,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "chutes",
             "modelId": "moonshotai/Kimi-K2.5-TEE"
           },
@@ -705,7 +705,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "chutes",
             "modelId": "moonshotai/Kimi-K2.6-TEE"
           },
@@ -728,7 +728,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "chutes",
             "modelId": "Qwen/Qwen3.5-397B-A17B-TEE"
           },
@@ -752,7 +752,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "chutes",
             "modelId": "Qwen/Qwen3.6-27B-TEE"
           },
@@ -774,7 +774,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "chutes",
             "modelId": "zai-org/GLM-5.2-TEE"
           },
@@ -804,7 +804,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "claude-cli",
             "modelId": "claude-fable-5"
           },
@@ -821,7 +821,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "claude-cli",
             "modelId": "claude-opus-4-8"
           },
@@ -839,7 +839,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "claude-cli",
             "modelId": "claude-opus-5"
           },
@@ -856,7 +856,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "claude-cli",
             "modelId": "claude-sonnet-5"
           },
@@ -879,7 +879,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "cohere",
             "modelId": "command-a-03-2025"
           },
@@ -902,7 +902,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "cohere",
             "modelId": "command-a-plus-05-2026"
           },
@@ -924,7 +924,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "cohere",
             "modelId": "command-a-reasoning-08-2025"
           },
@@ -948,7 +948,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "cohere",
             "modelId": "command-a-vision-07-2025"
           },
@@ -972,7 +972,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "cohere",
             "modelId": "north-mini-code-1-0"
           },
@@ -1001,7 +1001,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "deepseek-ai/DeepSeek-V3.2"
           },
@@ -1024,7 +1024,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "deepseek-ai/DeepSeek-V4-Flash"
           },
@@ -1046,7 +1046,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "deepseek-ai/DeepSeek-V4-Pro"
           },
@@ -1069,7 +1069,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "moonshotai/Kimi-K2.5"
           },
@@ -1093,7 +1093,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "moonshotai/Kimi-K2.6"
           },
@@ -1116,7 +1116,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "moonshotai/Kimi-K2.7-Code"
           },
@@ -1138,7 +1138,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B"
           },
@@ -1161,7 +1161,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B"
           },
@@ -1183,7 +1183,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "stepfun-ai/Step-3.5-Flash"
           },
@@ -1207,7 +1207,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "stepfun-ai/Step-3.7-Flash"
           },
@@ -1229,7 +1229,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "zai-org/GLM-5.1"
           },
@@ -1252,7 +1252,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepinfra",
             "modelId": "zai-org/GLM-5.2"
           },
@@ -1281,7 +1281,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepseek",
             "modelId": "deepseek-v4-flash"
           },
@@ -1303,7 +1303,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "deepseek",
             "modelId": "deepseek-v4-pro"
           },
@@ -1311,9 +1311,9 @@
           "contextWindow": 1000000,
           "maxTokens": 384000,
           "pricing": {
-            "input": 0.790308,
-            "output": 1.580616,
-            "cacheRead": 0.065859,
+            "input": 0.87,
+            "output": 1.74,
+            "cacheRead": 0.0725,
             "cacheWrite": 0
           }
         }
@@ -1332,7 +1332,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "featherless",
             "modelId": "Qwen/Qwen3-32B"
           },
@@ -1362,7 +1362,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "fireworks",
             "modelId": "accounts/fireworks/models/kimi-k2p6"
           },
@@ -1385,7 +1385,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "fireworks",
             "modelId": "accounts/fireworks/routers/glm-5p2-fast"
           },
@@ -1408,7 +1408,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "fireworks",
             "modelId": "accounts/fireworks/routers/kimi-k2p6-turbo"
           },
@@ -1438,7 +1438,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "claude-fable-5"
           },
@@ -1461,7 +1461,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "claude-haiku-4.5"
           },
@@ -1483,7 +1483,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "claude-opus-4.8"
           },
@@ -1507,7 +1507,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "claude-opus-5"
           },
@@ -1530,7 +1530,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "claude-sonnet-4.6"
           },
@@ -1554,7 +1554,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "claude-sonnet-5"
           },
@@ -1577,7 +1577,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gemini-2.5-pro"
           },
@@ -1600,7 +1600,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gemini-3.1-pro-preview"
           },
@@ -1622,7 +1622,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gemini-3.5-flash"
           },
@@ -1645,7 +1645,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gemini-3.6-flash"
           },
@@ -1667,7 +1667,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gpt-5.3-codex"
           },
@@ -1690,7 +1690,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gpt-5.4"
           },
@@ -1714,7 +1714,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gpt-5.4-mini"
           },
@@ -1738,7 +1738,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gpt-5.5"
           },
@@ -1762,7 +1762,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gpt-5.6-luna"
           },
@@ -1785,7 +1785,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gpt-5.6-sol"
           },
@@ -1808,7 +1808,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "gpt-5.6-terra"
           },
@@ -1830,7 +1830,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "github-copilot",
             "modelId": "raptor-mini"
           },
@@ -1859,7 +1859,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "gmi",
             "modelId": "anthropic/claude-sonnet-4.6"
           },
@@ -1883,7 +1883,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "gmi",
             "modelId": "anthropic/claude-sonnet-5"
           },
@@ -1905,7 +1905,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "gmi",
             "modelId": "deepseek-ai/DeepSeek-V3.2"
           },
@@ -1928,7 +1928,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "gmi",
             "modelId": "deepseek-ai/DeepSeek-V4-Pro"
           },
@@ -1951,7 +1951,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "gmi",
             "modelId": "google/gemini-3.5-flash-lite"
           },
@@ -1974,7 +1974,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "gmi",
             "modelId": "openai/gpt-5.6-sol"
           },
@@ -1996,7 +1996,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "gmi",
             "modelId": "zai-org/GLM-5.1-FP8"
           },
@@ -2019,7 +2019,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "gmi",
             "modelId": "zai-org/GLM-5.2-FP8"
           },
@@ -2048,7 +2048,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "groq",
             "modelId": "groq/compound"
           },
@@ -2070,7 +2070,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "groq",
             "modelId": "groq/compound-mini"
           },
@@ -2092,7 +2092,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "groq",
             "modelId": "llama-3.1-8b-instant"
           },
@@ -2115,7 +2115,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "groq",
             "modelId": "llama-3.3-70b-versatile"
           },
@@ -2138,7 +2138,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "groq",
             "modelId": "openai/gpt-oss-120b"
           },
@@ -2160,7 +2160,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "groq",
             "modelId": "openai/gpt-oss-20b"
           },
@@ -2182,7 +2182,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "groq",
             "modelId": "openai/gpt-oss-safeguard-20b"
           },
@@ -2205,7 +2205,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "groq",
             "modelId": "qwen/qwen3.6-27b"
           },
@@ -2235,7 +2235,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "kilocode",
             "modelId": "kilo-auto/balanced"
           },
@@ -2265,7 +2265,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "kimi",
             "modelId": "k3"
           },
@@ -2288,7 +2288,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "kimi",
             "modelId": "k3-256k"
           },
@@ -2311,7 +2311,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "kimi",
             "modelId": "kimi-for-coding"
           },
@@ -2334,7 +2334,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "kimi",
             "modelId": "kimi-for-coding-highspeed"
           },
@@ -2363,7 +2363,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "longcat",
             "modelId": "LongCat-2.0"
           },
@@ -2393,7 +2393,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "meta",
             "modelId": "muse-spark-1.1"
           },
@@ -2416,7 +2416,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "meta",
             "modelId": "muse-spark-1.2"
           },
@@ -2439,7 +2439,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "meta",
             "modelId": "muse-spark-1.2-contributor"
           },
@@ -2468,7 +2468,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "mistral",
             "modelId": "codestral-latest"
           },
@@ -2489,7 +2489,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "mistral",
             "modelId": "devstral-medium-latest"
           },
@@ -2512,7 +2512,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "mistral",
             "modelId": "mistral-large-latest"
           },
@@ -2534,7 +2534,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "mistral",
             "modelId": "mistral-medium-2508"
           },
@@ -2557,7 +2557,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "mistral",
             "modelId": "mistral-medium-3-5"
           },
@@ -2580,7 +2580,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "mistral",
             "modelId": "mistral-small-2603"
           },
@@ -2603,7 +2603,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "mistral",
             "modelId": "mistral-small-latest"
           },
@@ -2633,7 +2633,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "moonshot",
             "modelId": "kimi-k2.7-code"
           },
@@ -2656,7 +2656,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "moonshot",
             "modelId": "kimi-k2.7-code-highspeed"
           },
@@ -2679,7 +2679,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "moonshot",
             "modelId": "kimi-k3"
           },
@@ -2708,7 +2708,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "novita",
             "modelId": "deepseek/deepseek-v4-flash"
           },
@@ -2730,7 +2730,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "novita",
             "modelId": "deepseek/deepseek-v4-pro"
           },
@@ -2752,7 +2752,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "novita",
             "modelId": "minimax/minimax-m2.7"
           },
@@ -2776,7 +2776,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "novita",
             "modelId": "minimax/minimax-m3"
           },
@@ -2799,7 +2799,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "novita",
             "modelId": "moonshotai/kimi-k2.7-code"
           },
@@ -2822,7 +2822,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "novita",
             "modelId": "moonshotai/kimi-k3"
           },
@@ -2844,7 +2844,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "novita",
             "modelId": "qwen/qwen3.7-max"
           },
@@ -2866,7 +2866,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "novita",
             "modelId": "zai-org/glm-5.2"
           },
@@ -2895,7 +2895,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "deepseek-ai/deepseek-v4-pro"
           },
@@ -2917,7 +2917,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "minimaxai/minimax-m2.7"
           },
@@ -2941,7 +2941,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "minimaxai/minimax-m3"
           },
@@ -2964,7 +2964,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "moonshotai/kimi-k2.5"
           },
@@ -2988,7 +2988,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "moonshotai/kimi-k2.6"
           },
@@ -3010,7 +3010,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "nvidia/nemotron-3-super-120b-a12b"
           },
@@ -3032,7 +3032,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "nvidia/nemotron-3-ultra-550b-a55b"
           },
@@ -3055,7 +3055,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "qwen/qwen3.5-397b-a17b"
           },
@@ -3077,7 +3077,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "z-ai/glm-5.1"
           },
@@ -3099,7 +3099,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "z-ai/glm-5.2"
           },
@@ -3121,7 +3121,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "nvidia",
             "modelId": "z-ai/glm5"
           },
@@ -3150,7 +3150,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "deepseek-v4-flash"
           },
@@ -3166,7 +3166,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "deepseek-v4-flash:0731"
           },
@@ -3182,7 +3182,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "deepseek-v4-flash:preview"
           },
@@ -3198,7 +3198,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "deepseek-v4-pro"
           },
@@ -3214,7 +3214,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "deepseek-v4-pro:0813"
           },
@@ -3230,7 +3230,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "deepseek-v4-pro:preview"
           },
@@ -3247,7 +3247,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "gemma4"
           },
@@ -3264,7 +3264,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "gemma4:31b"
           },
@@ -3280,7 +3280,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "glm-5.1"
           },
@@ -3296,7 +3296,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "glm-5.2"
           },
@@ -3312,7 +3312,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "gpt-oss:120b"
           },
@@ -3328,7 +3328,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "gpt-oss:20b"
           },
@@ -3345,7 +3345,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "kimi-k2.5"
           },
@@ -3362,7 +3362,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "kimi-k2.6"
           },
@@ -3379,7 +3379,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "kimi-k2.7-code"
           },
@@ -3396,7 +3396,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "kimi-k3"
           },
@@ -3417,7 +3417,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "minimax-m2.7"
           },
@@ -3434,7 +3434,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "minimax-m3"
           },
@@ -3451,7 +3451,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "mistral-large-3:675b"
           },
@@ -3467,7 +3467,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "nemotron-3-nano:30b"
           },
@@ -3483,7 +3483,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "nemotron-3-super"
           },
@@ -3499,7 +3499,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "nemotron-3-ultra"
           },
@@ -3516,7 +3516,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "qwen3.5"
           },
@@ -3533,7 +3533,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "ollama-cloud",
             "modelId": "qwen3.5:397b"
           },
@@ -3557,7 +3557,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "openai",
             "modelId": "gpt-5.4"
           },
@@ -3580,7 +3580,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "openai",
             "modelId": "gpt-5.4-mini"
           },
@@ -3603,7 +3603,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "openai",
             "modelId": "gpt-5.4-nano"
           },
@@ -3626,7 +3626,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "openai",
             "modelId": "gpt-5.4-pro"
           },
@@ -3649,7 +3649,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "openai",
             "modelId": "gpt-5.5"
           },
@@ -3673,7 +3673,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "openai",
             "modelId": "gpt-5.5-pro"
           },
@@ -3697,7 +3697,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "openai",
             "modelId": "gpt-5.6-luna"
           },
@@ -3720,7 +3720,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "openai",
             "modelId": "gpt-5.6-sol"
           },
@@ -3743,7 +3743,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "openai",
             "modelId": "gpt-5.6-terra"
           },
@@ -3772,7 +3772,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "big-pickle"
           },
@@ -3795,7 +3795,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "claude-opus-4-8"
           },
@@ -3819,7 +3819,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "claude-opus-5"
           },
@@ -3842,7 +3842,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "claude-sonnet-4"
           },
@@ -3864,7 +3864,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "deepseek-v4-flash-free"
           },
@@ -3887,7 +3887,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "gemini-3.1-pro"
           },
@@ -3910,7 +3910,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "gemini-3.6-flash"
           },
@@ -3933,7 +3933,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "gpt-5.5"
           },
@@ -3957,7 +3957,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "gpt-5.6-sol"
           },
@@ -3980,7 +3980,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "kimi-k3"
           },
@@ -4002,7 +4002,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "laguna-s-2.1-free"
           },
@@ -4024,7 +4024,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "ling-3.0-flash-free"
           },
@@ -4046,7 +4046,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "ling-3.0-tiny-free"
           },
@@ -4068,7 +4068,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "longcat-2.0-free"
           },
@@ -4091,7 +4091,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "mimo-v2.5-free"
           },
@@ -4113,7 +4113,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "minimax-m2.7"
           },
@@ -4137,7 +4137,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "minimax-m3"
           },
@@ -4159,7 +4159,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "nemotron-3-ultra-free"
           },
@@ -4181,7 +4181,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode",
             "modelId": "north-mini-code-free"
           },
@@ -4210,7 +4210,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode-go",
             "modelId": "deepseek-v4-flash"
           },
@@ -4232,7 +4232,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode-go",
             "modelId": "deepseek-v4-pro"
           },
@@ -4255,7 +4255,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode-go",
             "modelId": "gpt-5.6-luna"
           },
@@ -4278,7 +4278,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode-go",
             "modelId": "kimi-k3"
           },
@@ -4301,7 +4301,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "opencode-go",
             "modelId": "qwen3.8-max"
           },
@@ -4330,7 +4330,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qianfan",
             "modelId": "deepseek-v3.2"
           },
@@ -4353,7 +4353,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qianfan",
             "modelId": "deepseek-v4-pro"
           },
@@ -4376,7 +4376,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qianfan",
             "modelId": "ernie-5.0"
           },
@@ -4399,7 +4399,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qianfan",
             "modelId": "ernie-5.0-thinking-preview"
           },
@@ -4422,7 +4422,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qianfan",
             "modelId": "ernie-5.1"
           },
@@ -4451,7 +4451,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qwen-token-plan",
             "modelId": "glm-5"
           },
@@ -4474,7 +4474,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qwen-token-plan",
             "modelId": "kimi-k2.5"
           },
@@ -4496,7 +4496,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qwen-token-plan",
             "modelId": "MiniMax-M2.5"
           },
@@ -4518,7 +4518,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qwen-token-plan",
             "modelId": "qwen3-coder-next"
           },
@@ -4542,7 +4542,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qwen-token-plan",
             "modelId": "qwen3.6-plus"
           },
@@ -4565,7 +4565,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "qwen-token-plan",
             "modelId": "qwen3.7-plus"
           },
@@ -4594,7 +4594,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "stepfun",
             "modelId": "step-3.5-flash"
           },
@@ -4617,7 +4617,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "stepfun",
             "modelId": "step-3.7-flash"
           },
@@ -4646,7 +4646,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "stepfun-plan",
             "modelId": "step-3.5-flash"
           },
@@ -4668,7 +4668,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "stepfun-plan",
             "modelId": "step-3.5-flash-2603"
           },
@@ -4691,7 +4691,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "stepfun-plan",
             "modelId": "step-3.7-flash"
           },
@@ -4720,7 +4720,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "tencent-tokenhub",
             "modelId": "hy3"
           },
@@ -4742,7 +4742,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "tencent-tokenhub",
             "modelId": "hy3-preview"
           },
@@ -4772,7 +4772,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "tencent-tokenplan",
             "modelId": "hy3"
           },
@@ -4795,7 +4795,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "together",
             "modelId": "deepseek-ai/DeepSeek-V4-Pro"
           },
@@ -4817,7 +4817,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "together",
             "modelId": "meta-llama/Llama-3.3-70B-Instruct-Turbo"
           },
@@ -4839,7 +4839,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "together",
             "modelId": "moonshotai/Kimi-K2.6"
           },
@@ -4861,7 +4861,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "together",
             "modelId": "zai-org/GLM-5.2"
           },
@@ -4891,7 +4891,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "claude-fable-5"
           },
@@ -4914,7 +4914,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "claude-opus-5"
           },
@@ -4937,7 +4937,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "claude-sonnet-4-6"
           },
@@ -4959,7 +4959,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "deepseek-v3.2"
           },
@@ -4982,7 +4982,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "google-gemma-3-27b-it"
           },
@@ -5006,7 +5006,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "google-gemma-4-31b-it"
           },
@@ -5029,7 +5029,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "grok-4-5"
           },
@@ -5052,7 +5052,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "kimi-k2-5"
           },
@@ -5076,7 +5076,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "kimi-k2-6"
           },
@@ -5099,7 +5099,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "openai-gpt-56-sol"
           },
@@ -5122,7 +5122,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "qwen-3-7-max"
           },
@@ -5145,7 +5145,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "qwen-3-7-plus"
           },
@@ -5167,7 +5167,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "qwen3-235b-a22b-thinking-2507"
           },
@@ -5189,7 +5189,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "qwen3-coder-480b-a35b-instruct-turbo"
           },
@@ -5212,7 +5212,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "qwen3-vl-235b-a22b"
           },
@@ -5235,7 +5235,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "venice-uncensored-1-2"
           },
@@ -5257,7 +5257,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "zai-org-glm-4.6"
           },
@@ -5280,7 +5280,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "zai-org-glm-4.7"
           },
@@ -5302,7 +5302,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "venice",
             "modelId": "zai-org-glm-5-2"
           },
@@ -5331,7 +5331,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine",
             "modelId": "deepseek-v3-2-251201"
           },
@@ -5354,7 +5354,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine",
             "modelId": "deepseek-v4-flash-260425"
           },
@@ -5376,7 +5376,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine",
             "modelId": "deepseek-v4-pro-260425"
           },
@@ -5399,7 +5399,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine",
             "modelId": "doubao-seed-2-1-pro-260628"
           },
@@ -5422,7 +5422,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine",
             "modelId": "doubao-seed-2-1-turbo-260628"
           },
@@ -5445,7 +5445,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine",
             "modelId": "doubao-seed-evolving"
           },
@@ -5467,7 +5467,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine",
             "modelId": "glm-4-7-251222"
           },
@@ -5490,7 +5490,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine",
             "modelId": "glm-5-2-260617"
           },
@@ -5513,7 +5513,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine",
             "modelId": "kimi-k2-5-260127"
           },
@@ -5542,7 +5542,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine-plan",
             "modelId": "ark-code-latest"
           },
@@ -5563,7 +5563,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine-plan",
             "modelId": "deepseek-v4-flash"
           },
@@ -5585,7 +5585,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine-plan",
             "modelId": "deepseek-v4-pro"
           },
@@ -5608,7 +5608,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine-plan",
             "modelId": "doubao-seed-2.1-turbo"
           },
@@ -5630,7 +5630,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "volcengine-plan",
             "modelId": "glm-5.2"
           },
@@ -5660,7 +5660,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "xiaomi",
             "modelId": "mimo-v2.5"
           },
@@ -5682,7 +5682,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "xiaomi",
             "modelId": "mimo-v2.5-pro"
           },
@@ -5712,7 +5712,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "xiaomi-token-plan",
             "modelId": "mimo-v2.5"
           },
@@ -5734,7 +5734,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "xiaomi-token-plan",
             "modelId": "mimo-v2.5-pro"
           },
@@ -5763,7 +5763,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "zai",
             "modelId": "glm-5-turbo"
           },
@@ -5785,7 +5785,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "zai",
             "modelId": "glm-5.1"
           },
@@ -5808,7 +5808,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "zai",
             "modelId": "glm-5.2"
           },
@@ -5830,7 +5830,7 @@
             "text"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "zai",
             "modelId": "glm-5.3"
           },
@@ -5853,7 +5853,7 @@
             "image"
           ],
           "provenance": {
-            "sourceCommit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
+            "sourceCommit": "ecf006ecd3b765ff550be66a04e969654848f051",
             "providerId": "zai",
             "modelId": "glm-5v-turbo"
           },
@@ -5870,12 +5870,12 @@
       ]
     }
   ],
-  "catalogVersion": "sha256-ce5182ef4f3973d39cdec917d3ec1a1cd8f5415c80ee354c88bf00ae1b4544f6",
-  "generatedAt": "2026-08-25T04:51:36.064Z",
+  "catalogVersion": "sha256-e10cee468f92a5d561b445971645347cf5908a514e59595c1094cccab8a70d98",
+  "generatedAt": "2026-08-26T04:54:20.051Z",
   "source": {
     "url": "https://catalog.openclaw.ai/models/v1/catalog.json",
-    "commit": "b57d629ddb6d73924b4f8ca1754c61290cfba633",
-    "digest": "sha256-4a503b4dc35034ab52da245b5216571a1a7756bfa6a314c86f21c956bf81f036",
-    "verifiedAt": "2026-08-25T04:51:36.064Z"
+    "commit": "ecf006ecd3b765ff550be66a04e969654848f051",
+    "digest": "sha256-2ea7626b6e59b45b4005e78c57c84d174c40a484d2e3d50095daa4b79f880272",
+    "verifiedAt": "2026-08-26T04:54:20.051Z"
   }
 }
